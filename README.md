@@ -13,7 +13,7 @@
 <h1 align="center">Awesome JavaScript Games 🎮</h1>
 <h4 align="center">A curated list of awesome JavaScript Games (Open Source), assets and resources.</h4>
 <p align="center">
-  <img width="600px" alt="JavaScript Games" src="img/javascript-games.png">
+  <img width="600px" alt="JavaScript Games" src="https://portfolio-25d76.web.app/assets/img/www.thegamer.com.png">
   <p align="center">
     <i>Credits to https://codepen.io/boldfacedesign/pen/EoGgD</i>
   </p>
@@ -108,7 +108,7 @@
 ---
 
 <p align="center">
-  <img width="600px" alt="Awesome Resources" src="img/res.png">
+<!--   <img width="600px" alt="Awesome Resources" src="img/res.png"> -->
 </p>
 
 
